@@ -1,0 +1,4 @@
+Hi, my name is John Doe, email john.doe@example.com, I want to go Paris next month.
+Contact: neha.sharma@gmail.com Destination Tokyo Name: Neha Sharma
+Booking enquiry from Rahul: rahul123@yahoo.com wants to visit London.
+Email: priya.kapoor@outlook.com, trip planned for Sydney, Name Priya Kapoor
