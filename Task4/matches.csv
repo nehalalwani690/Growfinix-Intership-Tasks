@@ -1,0 +1,31 @@
+id,season,date,team1,team2,toss_winner,toss_decision,winner,venue
+1,2019,2019-03-23,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,Chennai
+2,2019,2019-03-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,Kolkata
+3,2019,2019-03-24,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Mumbai
+4,2019,2019-03-25,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Kings XI Punjab,Jaipur
+5,2019,2019-03-26,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,Kolkata
+6,2019,2019-03-27,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,Bengaluru
+7,2019,2019-03-28,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,Hyderabad
+8,2019,2019-03-29,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Kolkata
+9,2019,2019-03-30,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,Chennai
+10,2019,2019-03-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Hyderabad
+11,2020,2020-09-19,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,Abu Dhabi
+12,2020,2020-09-20,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,Dubai
+13,2020,2020-09-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Dubai
+14,2020,2020-09-23,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,Abu Dhabi
+15,2020,2020-09-26,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Abu Dhabi
+16,2020,2020-09-29,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,Dubai
+17,2021,2021-04-09,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,Chennai
+18,2021,2021-04-11,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Chennai
+19,2021,2021-04-13,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,Mumbai
+20,2021,2021-04-15,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,Mumbai
+21,2021,2021-04-18,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Chennai
+22,2021,2021-04-21,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,Mumbai
+23,2022,2022-03-26,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Mumbai
+24,2022,2022-03-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,Mumbai
+25,2022,2022-03-30,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,DY Patil
+26,2022,2022-04-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai
+27,2022,2022-04-06,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Pune
+28,2022,2022-04-10,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,Mumbai
+29,2022,2022-04-15,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Mumbai
+30,2022,2022-04-18,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,Mumbai
